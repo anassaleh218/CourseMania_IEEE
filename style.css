@@ -90,6 +90,7 @@ body {
     justify-content: space-between;
     background: rgba(255, 255, 255, 0.5);
     box-shadow: 1px 1px 5px rgba(44, 117, 117, 0.5);
+   
 }
 
 .logo1 {
@@ -179,6 +180,7 @@ select:focus {
     height: 100vh;
     background: #F8F5F5;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
+    
 }
 
 .more_section {
